@@ -18,7 +18,7 @@ In this lab, you will build an app that let's you make a list of groceries to bu
 ```js
 {
   item: '',
-  brand '',
+  brand: '',
   units: '',
   quantity: 0,
   isPurchased: false
